@@ -52,7 +52,7 @@
         "school":"The Federal Polytechnic Offa, Kwara State",
         "degree":"Diploma in Eletrical Electronics Engineering",
         "graduated":"March 2016",
-        "description":"I was introduced to programming as a course and got to know about its potential. Qbasic was the language being taught in the course and its the main drive that pushed me into Development world. Good mathematic operations attained helps a lot at solving complex logics with easy approach in applications development."
+        "description":"I was introduced to programming as a course and got to know about its potential. Qbasic was the language being taught in the course and its the main drive that pushed me into Development world. Good mathematics operations learned helps a lot at solving complex logics with easy approach in applications development."
       },
       {
         "school":"Soft Quest Incorporated (SQI) College of ICT, Ogbomosh, Oyo State",
@@ -78,7 +78,7 @@
         "company":"Bomzak",
         "title":"Frontend Engineer ",
         "years":"January 2021 - March 2021",
-        "description":"Vehicle taxes and revenue management system with over 3 months of successful experience and contributions to success of the project. Used Vue as the frontend technology for design and logic"
+        "description":"Admin Dashboard for vehicle taxes and revenue management system for a popular state in Nigeria with over 3 months of successful experience and contributions to completement of the project. Used Vue as the frontend technology for design and logic"
       }
     ],
     "skills":[
