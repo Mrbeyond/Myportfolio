@@ -1,46 +1,46 @@
 {
   "main": {
-    "name":"Nordic-Giant Project",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "name":"Abiola Olatunji .S.",
+    "description":"I am software architect that major in Web and Mobile. I use Node.js, Php, Laravel, React, Vue, Angular to develop web apps; Flutter and Java for mobile apps. This platform is a resume template that can be used as my projects home page or resume page",
+    "image":"profilepicmine.jpg",
+    "bio":"I'm a developer! I'm imperative to you than to myself. Solutions to your challenges is my priority.I beleive in the power of togetherness and I'm always eager to collaborate on any project that proffer solution to challenges facing mankind. Software Architect, Song writer, Singer",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "email": "abiolaolatunji007@gmail.com",
+    "phone": "+2348105921529",
+    "github":"https://github.com/Mrbeyond",
     "project":"https://github.com/nordicgiant2/react-nice-resume",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"",
+      "city":"Ogbomosho",
+      "state":"Oyo State",
+      "zip": "210271"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1ePgoyLvEU6_cyP8XNG2CYGWxJvJMlmtx/view?usp=drivesdk",
     "social":[
       {
         "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/abiola.olatunji.52",
         "className":"fa fa-facebook"
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com",
+        "url":"https://twitter.com/beyondoffizial",
         "className":"fa fa-twitter"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/abiola-beyond-84a78919a/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/ama_beyond",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "url":"https://github.com/mrbeyond",
         "className":"fa fa-github"
       }
     ]
@@ -49,137 +49,98 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2017",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"The Federal Polytechnic Offa, Kwara State",
+        "degree":"Diploma in Eletrical Electronics Engineering",
+        "graduated":"March 2016",
+        "description":"I was introduced to programming as a course and got to know about its potential. Qbasic was the language being taught in the course and its the main drive that pushed me into Development world. Good mathematic operations attained helps a lot at solving complex logics with easy approach in applications development."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Soft Quest Incorporated (SQI) College of ICT, Ogbomosh, Oyo State",
+        "degree":"Diploma in Software Architecture",
+        "graduated":"March 2021",
+        "description":"Learned everything about software development and attained solid skills with frequent test and practical projects. HTML, CSS, JAVASCRIPT, BOOTSTRAP, PHP, NODE.JS, ANGULAR, REACT, VUE, JAVA, PYTHON, LARAVEL, ANDROID (with java), VERSION CONTROL (Git) and general programming concepts are learned in the institution. Class projects given and done are categorized viz: Javascript [Unit converter, calculator, Loan discount evaluator, Drawing App using canvas, Bar chart generator using canvas], Node.js [Notebook, Chat App with using socket] Vue and React and Angular [ Todo App ], Python [Calculator GUI, ATM App console and GUI, NotePad GUI], Java [Calculator GUI, Notepad GUI]"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Medillery LTD",
+        "title":"Lead Developer",
+        "years":"October 2019 - Present",
+        "description": "Successful freelancing platform designed to link ui/ux designers and clients. 2 years of experience in demanding environments focused on producing cutting-edge systems with React.js and larval in directing development with creative and performance-oriented approach. \n •Ongoing Image templating system started 5 months ago till present using Laravel and React.js as the technologies.\n •Ongoing Project presentation System using reactive and responsive image replicas for app pages linking, started 3 months ago till present using Laravel and Vue.js as the technologies.\n •Managed development milestones from initial steps through final delivery.\n •Integration of DevOps like AWS S3 for cloud storage.\n •Code review, debugging, unit to compound testing"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Paycoins",
+        "title":"Frontend Engineer ",
+        "years":"February 2021 - Present",
+        "description":"Crypto currency platform started 4 months ago till present using Node js and Vue js as the development technologies. Managed the frontend architecture, design and logic using vue.js"
+      },
+      {
+        "company":"Bomzak",
+        "title":"Frontend Engineer ",
+        "years":"January 2021 - March 2021",
+        "description":"Vehicle taxes and revenue management system with over 3 months of successful experience and contributions to success of the project. Used Vue as the frontend technology for design and logic"
       }
     ],
     "skills":[
+      {
+        "name":"Javascript",
+        "level":"90%"
+      },
+      {
+        "name":"Node",
+        "level":"70%"
+      },
+      {
+        "name":"Vue",
+        "level":"80%"
+      },
+      {
+        "name":"React",
+        "level":"80%"
+      },
+      {
+        "name":"Angular",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"80%"
+      },
+      {
+        "name":"PHP",
+        "level":"70%"
+      },
       {
         "name":"Python",
         "level":"60%"
       },
       {
-        "name":"VueJs",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"PHP",
-        "level":"80%"
-      },
-      {
-        "name":"Swift",
-        "level":"50%"
-      },
-      {
         "name":"JAVA",
+        "level":"60%"
+      },
+      {
+        "name":"Flutter",
+        "level":"50%"
+      },
+      {
+        "name":"SQL",
         "level":"80%"
+      },      
+      {
+        "name":"Mongodb",
+        "level":"70%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Medillery LTD",
+        "category":"Ui/UX Design Freelancing",
+        "image":"medillery.png",
+        "url":"https://medillery.com"
       }
+      
     ]
   }
 }
