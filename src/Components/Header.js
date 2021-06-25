@@ -5,7 +5,7 @@ import Fade from "react-reveal";
 class Header extends Component {
   render() {
     if (!this.props.data) return null;
-    console.log(this.props.data);
+    // console.log(this.props.data);
 
     const project = this.props.data.project;
     const github = this.props.data.github;
