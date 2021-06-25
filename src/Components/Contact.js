@@ -3,7 +3,7 @@ import { Fade, Slide } from "react-reveal";
 
 class Contact extends Component {
 
-  
+
   render() {
     if (!this.props.data) return null;
 
@@ -13,11 +13,11 @@ class Contact extends Component {
     const state = this.props.data.address.state;
     const zip = this.props.data.address.zip;
     const phone = this.props.data.phone;
-    const message = this.props.data.contactmessage;
+    // const message = this.props.data.contactmessage;
 
     return (
       <section id="contact">
-        <Fade bottom duration={1000}>
+        {/* <Fade bottom duration={1000}>
           <div className="row section-head">
             <div className="two columns header-col">
               <h1>
@@ -26,13 +26,13 @@ class Contact extends Component {
             </div>
 
             <div className="ten columns">
-              <p className="lead">{message}</p>
+              <p className="lead">{message}</p> 
             </div>
           </div>
-        </Fade>
+        </Fade> */}
 
         <div className="row">
-          <Slide left duration={1000}>
+          {/* <Slide left duration={1000}>
             <div className="eight columns">
               <form action="" method="post" id="contactForm" name="contactForm">
                 <fieldset>
@@ -103,7 +103,7 @@ class Contact extends Component {
                 <br />
               </div>
             </div>
-          </Slide>
+          </Slide> */}
 
           <Slide right duration={1000}>
             <aside className="four columns footer-widgets">
