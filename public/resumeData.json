@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Abiola Olatunji .S.",
-    "description":"I am software architect that major in Web and Mobile. I use Node.js, Php, Laravel, React, Vue, Angular to develop web apps; Flutter and Java for mobile apps. This platform is a resume template that can be used as my projects home page or resume page",
+    "description":"I am software architect that major in Web and Mobile. I use Node.js, Php, Laravel, React, Vue, Angular to develop web apps; Flutter and Java for mobile apps. This interface is a resume template that can be used as my projects home page or resume page",
     "image":"profilepicmine.jpg",
     "bio":"I'm a developer! I'm imperative to you than to myself. Solutions to your challenges is my priority.I beleive in the power of togetherness and I'm always eager to collaborate on any project that proffer solution to challenges facing mankind. Software Architect, Song writer, Singer",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -145,6 +145,12 @@
         "category":"Cryptocurrency payment gateway",
         "image":"paycoins.png",
         "url":"https://pay-coins.netlify.app"
+      },
+      {
+        "title":"MECP",
+        "category":"Vehicle Taxes and Revenue",
+        "image":"mecp.png",
+        "url":"/#"
       }
       
     ]
