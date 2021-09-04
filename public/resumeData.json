@@ -84,11 +84,11 @@
     "skills":[
       {
         "name":"Javascript",
-        "level":"90%"
+        "level":"100%"
       },
       {
         "name":"Node",
-        "level":"70%"
+        "level":"80%"
       },
       {
         "name":"Vue",
@@ -96,6 +96,18 @@
       },
       {
         "name":"React",
+        "level":"80%"
+      },
+      {
+        "name": "Svelte",
+        "level": "80%"
+      },
+      {
+        "name":"Django",
+        "level":"70%"
+      },
+      {
+        "name":"Laravel",
         "level":"80%"
       },
       {
@@ -120,15 +132,15 @@
       },
       {
         "name":"Flutter",
-        "level":"50%"
+        "level":"60%"
       },
       {
         "name":"SQL",
-        "level":"80%"
+        "level":"90%"
       },      
       {
         "name":"Mongodb",
-        "level":"70%"
+        "level":"80%"
       }
     ]
   },
