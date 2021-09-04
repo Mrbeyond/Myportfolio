@@ -1,9 +1,9 @@
 {
   "main": {
     "name":"Abiola Olatunji .S.",
-    "description":"I am software architect that major in Web and Mobile. I use Node.js, Php, Laravel, React, Vue, Angular to develop web apps; Flutter and Java for mobile apps. This interface is a resume template that can be used as my projects home page or resume page",
+    "description":"I am software architect that major in Web and Mobile. I use Node.js, Django, Laravel, React, Vue, Svelte, Angular to develop web apps; Flutter and Java for mobile apps. This interface is a resume template that can be used as my projects home page or resume page",
     "image":"profilepicmine.jpg",
-    "bio":"I'm a developer! I'm imperative to you than to myself. Solutions to your challenges is my priority.I beleive in the power of togetherness and I'm always eager to collaborate on any project that proffer solution to challenges facing mankind. Software Architect, Song writer, Singer",
+    "bio":"I'm a full-stack developer! Providing solutions to challenges has always been my priority and I bond the restless feeling until my aim is achieved. With the potentials of programming at my hand, it has really ventured me into resolution trait and I appreciate any concept that I can improve or add value to, with my skills. I am your perfect plug for critical thinking to arriving at concise solutions.  I strongly believe in togetherness and always eager to collaborate with skilled and great minded people to build a perfect world we co-dream. I value communication and its tools a lot. I am readily adaptive and I value the advantage of agile process. Software Architect, Song writer, Singer.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "abiolaolatunji007@gmail.com",
     "phone": "+2348105921529",
@@ -52,13 +52,13 @@
         "school":"The Federal Polytechnic Offa, Kwara State",
         "degree":"Diploma in Eletrical Electronics Engineering",
         "graduated":"March 2016",
-        "description":"I was introduced to programming as a course and got to know about its potential. Qbasic was the language being taught in the course and its the main drive that pushed me into Development world. Good mathematics operations learned helps a lot at solving complex logics with easy approach in applications development."
+        "description":"I was introduced to programming as a course in 2015 and got to know about its potential. Qbasic was the language being taught in the course and its the main drive that pushed me into Development world. Good mathematics operations learned helps a lot at solving complex logics with easy approach in applications development."
       },
       {
         "school":"Soft Quest Incorporated (SQI) College of ICT, Ogbomosh, Oyo State",
         "degree":"Diploma in Software Architecture",
         "graduated":"March 2021",
-        "description":"Learned everything about software development and attained solid skills with frequent tests and practical projects. HTML, CSS, JAVASCRIPT, BOOTSTRAP, PHP, NODE.JS, ANGULAR, REACT, VUE, JAVA, PYTHON, LARAVEL, ANDROID (with java), VERSION CONTROL (Git) and general programming concepts are learned in the institution. Class projects given and done are categorized viz: Javascript [Unit converter, calculator, Loan discount evaluator, Drawing App using canvas, Bar chart generator using canvas], Node.js [Notebook, Chat App with using socket] Vue and React and Angular [ Todo App ], Python [Calculator GUI, ATM App console and GUI, NotePad GUI], Java [Calculator GUI, Notepad GUI]"
+        "description":"Learned everything about software development and attained solid skills with frequent tests and practical projects. HTML, CSS, JAVASCRIPT, BOOTSTRAP, PHP, NODE.JS, ANGULAR, REACT, VUE, JAVA, PYTHON, LARAVEL, ANDROID (with java), VERSION CONTROL (Git) and general programming concepts are learned in the institution. Class projects given and done are categorized viz: • Javascript [ Unit converter, calculator, Loan discount evaluator, Graphics Editing App using canvas, Bar chart generator using canvas ], •Node.js [ Notebook, Chat App with mongodb and socket ] •Vue and React and Angular [ Todo App , Windows MP3 player ], •Python [ Calculator - GUI, ATM App console and GUI, NotePad - GUI ], •Java [Calculator - GUI, Notepad - GUI]."
       }
     ],
     "work":[
@@ -66,19 +66,19 @@
         "company":"Medillery LTD",
         "title":"Lead Developer",
         "years":"October 2019 - Present",
-        "description": "Successful freelancing platform designed to link ui/ux designers and clients. 2 years of experience in demanding environments focused on producing cutting-edge systems with React.js and larval in directing development with creative and performance-oriented approach. \n •Ongoing Image templating system started 5 months ago till present using Laravel and React.js as the technologies.\n •Ongoing Project presentation System using reactive and responsive image replicas for app pages linking, started 3 months ago till present using Laravel and Vue.js as the technologies.\n •Managed development milestones from initial steps through final delivery with Laravel for back and and react for frontend.\n •Integration of DevOps like AWS S3 for cloud storage.\n •Code review, debugging, unit to compound testing"
+        "description": "Successful freelancing platform designed to link ui/ux designers and clients. 2 years of experience in demanding environments focused on producing cutting-edge systems with React.js and larval in directing development with creative and performance-oriented approach. \n •Ongoing Image templating system started 5 months ago till present using Laravel and React.js as the technologies.\n •Ongoing Project presentation System using reactive and responsive image replicas for app pages linking, started 3 months ago till present using Laravel and Vue.js as the technologies.\n •Orchestrated development milestones from initial stage through final delivery with Laravel for back and and react for frontend. •Integration of DevOps like AWS S3 for cloud storage. •Code review, debugging, unit to compound testing •I had my first experience with hosting and deployment. •Implementation of webmail for mailing system, google login, real time notification with pusher. •I got every evidence to prove myself an efficient developer from this experience."
       },
       {
         "company":"Paycoins",
         "title":"Frontend Engineer ",
         "years":"February 2021 - Present",
-        "description":"Cryptocurrency payment gateway platform using Node js and Vue js as the development technologies. Managed the frontend architecture, design and logic using vue.js"
+        "description":"Cryptocurrency payment gateway platform using Node js and Vue js as the development technologies. •Managed the frontend architecture, design and logic using vue.js •Got deep knowledge about payment gateway system and that prompted safe and secured algorithm suitable for the platform. •The process led to several redesign of interface to make the app be an easy ride for users and functionally self explanatory, it actually equipped me more with default consciousness of building user friendly applications."
       },
       {
         "company":"Bomzak",
         "title":"Frontend Engineer ",
         "years":"January 2021 - March 2021",
-        "description":"Admin Dashboard for vehicle taxes and revenue management system for a popular state in Nigeria with over 3 months of successful experience and contributions to completion of the project. Used Vue as the frontend technology for design and logic"
+        "description":"Admin Dashboard for vehicle taxes and revenue management system for a popular state in Nigeria with over 3 months of successful experience and contributions to completion of the project. Used Vue as the frontend technology for design and logic. •I was assigned to orchestrating the frontend of an admin dashboard of vehicle taxes and revenue management system. •The milestone exposed me to the structure of admin dashboard applications and processing of large data. Data exportation in pdf and csv was the new thing I implemented for the first time back then amid other logics."
       }
     ],
     "skills":[
