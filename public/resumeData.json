@@ -52,7 +52,7 @@
         "school":"The Federal Polytechnic Offa, Kwara State",
         "degree":"Diploma in Electrical Electronics Engineering",
         "graduated":"March 2016",
-        "description":"I was introduced to programming as a course in 2015 and got to know about its potential. Qbasic was the language being taught in the course and its the main drive that pushed me into Development world. Good mathematics operations learned helps a lot at solving complex logics with easy approach in applications development."
+        "description":"I was introduced to programming as a course in 2015 and got to know about its potential. Qbasic was the language being taught in the course and it was the main drive that pushed me into Development world. Good knowledge of engineering Mathematics helps a lot at solving complex logics with easy approach in application development."
       },
       {
         "school":"Soft Quest Incorporated (SQI) College of ICT, Ogbomosh, Oyo State",
@@ -61,17 +61,17 @@
         "description":"Learned everything about software development and attained solid skills with frequent tests and practical projects. HTML, CSS, JAVASCRIPT, BOOTSTRAP, PHP, NODE.JS, ANGULAR, REACT, VUE, JAVA, PYTHON, LARAVEL, ANDROID (with java), VERSION CONTROL (Git) and general programming concepts are learned in the institution. Class projects given and done are categorized viz: • Javascript [ Unit converter, calculator, Loan discount evaluator, Graphics Editing App using canvas, Bar chart generator using canvas ], •Node.js [ Notebook, Chat App with mongodb and socket ] •Vue and React and Angular [ Todo App , Windows MP3 player ], •Python [ Calculator - GUI, ATM App console and GUI, NotePad - GUI ], •Java [Calculator - GUI, Notepad - GUI]."
       }
     ],
-    "work":[
+    "work":[      
       {
         "company":"Medillery LTD",
         "title":"Lead Developer",
-        "years":"October 2019 - Present",
+        "years":"October 2019 - October 2021",
         "description": "Successful freelancing platform designed to link ui/ux designers and clients. 2 years of experience in demanding environments focused on producing cutting-edge systems with React.js and larval in directing development with creative and performance-oriented approach. \n •Ongoing Image templating system started 5 months ago till present using Laravel and React.js as the technologies.\n •Ongoing Project presentation System using reactive and responsive image replicas for app pages linking, started 3 months ago till present using Laravel and Vue.js as the technologies.\n •Orchestrated development milestones from initial stage through final delivery with Laravel for back and and react for frontend. •Integration of DevOps like AWS S3 for cloud storage. •Code review, debugging, unit to compound testing •I had my first experience with hosting and deployment. •Implementation of webmail for mailing system, google login, real time notification with pusher. •I got every evidence to prove myself an efficient developer from this experience."
       },
       {
         "company":"Paycoins",
         "title":"Frontend Engineer ",
-        "years":"February 2021 - Present",
+        "years":"February 2021 - June 2021",
         "description":"Cryptocurrency payment gateway platform using Node js and Vue js as the development technologies. •Managed the frontend architecture, design and logic using vue.js •Got deep knowledge about payment gateway system and that prompted safe and secured algorithm suitable for the platform. •The process led to several redesign of interface to make the app be an easy ride for users and functionally self explanatory, it actually equipped me more with default consciousness of building user friendly applications."
       },
       {
@@ -79,6 +79,12 @@
         "title":"Frontend Engineer ",
         "years":"January 2021 - March 2021",
         "description":"Admin Dashboard for vehicle taxes and revenue management system for a popular state in Nigeria with over 3 months of successful experience and contributions to completion of the project. Used Vue as the frontend technology for design and logic. •I was assigned to orchestrating the frontend of an admin dashboard of vehicle taxes and revenue management system. •The milestone exposed me to the structure of admin dashboard applications and processing of large data. Data exportation in pdf and csv was the new thing I implemented for the first time back then amid other logics."
+      },
+      {
+        "company":"Hiosoft",
+        "title":"Full stack Engineer ",
+        "years":"September 2021 - Present",
+        "description":"Loan System Disbursement platform on which Micro finance banks register as Loan vendors and users collect loans to do almost everything. I Reinforced the development team as a key member that propelled product development with timely delivery and actualization of schedule. With my skills, I was able to eradicate procrastination of projects in the firm by elevating the morale of the development team with synchronization of good working spirit of frontend engineers and backend engineers. With the help of user experience accumulated from my working curves, I played a vital role in improving the product design and project architecture. The firm project delivery by the development team is more reliable and fast by 80% since the beginning of involvement in the team which has earned me the accolade of tech lead recently."
       }
     ],
     "skills":[
@@ -88,19 +94,19 @@
       },
       {
         "name":"Node",
-        "level":"80%"
+        "level":"90%"
       },
       {
         "name":"Vue",
-        "level":"80%"
+        "level":"90%"
       },
       {
         "name":"React",
-        "level":"80%"
+        "level":"90%"
       },
       {
         "name": "Svelte",
-        "level": "80%"
+        "level": "100%"
       },
       {
         "name":"Django",
@@ -112,11 +118,11 @@
       },
       {
         "name":"Angular",
-        "level":"70%"
+        "level":"90%"
       },
       {
         "name":"CSS",
-        "level":"80%"
+        "level":"90%"
       },
       {
         "name":"PHP",
@@ -124,15 +130,15 @@
       },
       {
         "name":"Python",
-        "level":"60%"
+        "level":"70%"
       },
       {
         "name":"JAVA",
-        "level":"60%"
+        "level":"70%"
       },
       {
         "name":"Flutter",
-        "level":"60%"
+        "level":"70%"
       },
       {
         "name":"SQL",
@@ -156,12 +162,24 @@
         "title":"Paycoins",
         "category":"Cryptocurrency payment gateway",
         "image":"paycoins.png",
-        "url":"https://pay-coins.netlify.app"
+        "url":"https://paycoins.africa"
       },
       {
         "title":"MECP",
         "category":"Vehicle Taxes and Revenue",
         "image":"mecp.png",
+        "url":"/#"
+      },
+      {
+        "title":"Pendustry blog",
+        "category":"Blog",
+        "image":"pendustryblog.png",
+        "url":"https://blog.thependustry.com"
+      },
+      {
+        "title":"Azabills",
+        "category":"Loan Disbursement",
+        "image":"azabills.png",
         "url":"/#"
       }
       
